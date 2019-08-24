@@ -1,3 +1,4 @@
 .vscode/
-.pyhton-version
+.python-version
 __pycache__/
+bin/
